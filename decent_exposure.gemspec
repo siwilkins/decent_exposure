@@ -4,7 +4,7 @@ $:.unshift lib unless $:.include?(lib)
 require 'decent_exposure/version'
 
 Gem::Specification.new do |s|
-  s.name        = 'decent_exposure'
+  s.name        = 'yoomee-decent_exposure'
   s.version     = DecentExposure::VERSION
   s.authors     = ["Stephen Caudill", "Jon Larkowski"]
   s.email       = 'scaudill@gmail.com'
